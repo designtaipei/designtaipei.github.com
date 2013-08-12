@@ -1,0 +1,15 @@
+  <div id="bar">
+    <div class="container">
+      <ul class="bar-menu">
+        <li class="bar-menu-item bar-menu-logo"><a href=""></a>
+        {% for link in site.links %}
+        <li class="bar-menu-item"><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}"{% if link.external %} target="_blank"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </ul>
+      <ul class="bar-social">
+        <!--<li class="bar-social-pinterest"><a target="_blank" href="http://pinterest.com/cy1221/taipei-design-energy/">Pinterest</a>-->
+        <li class="bar-social-facebook"><a target="_blank" href="https://www.facebook.com/taipeidesign">Facebook</a>
+        <li class="bar-social-youtube"><a target="_blank" href="http://www.youtube.com/user/2016WDCTaipei">Youtube</a>
+      </ul>
+    </div>
+  </div>

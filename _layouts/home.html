@@ -1,0 +1,29 @@
+{% include head.html %}
+{% include header.html %}
+{% include menu.html %}
+
+  <div id="main">
+
+    <div class="container">
+
+      <div class="clear main-post-list">
+
+        {% for post in site.posts %}
+        <article class="main-post">
+          <header class="main-post-header">
+            <img class="main-post-img" src="{{ post.tumb }}" />
+            <h3 class="main-post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+          </header>
+          <div class="main-post-entry">
+            <p>{{ post.content | strip_html | strip_newlines | truncate: 120 }}</p>
+          </div>
+        </article>
+        {% endfor %}
+
+      </div>
+
+    </div>
+
+  </div>
+
+{% include footer.html %}

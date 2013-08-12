@@ -1,0 +1,18 @@
+title:         設計之都
+url:           http://design-taipei.mobileweb.com.tw
+permalink:     /:year/:month/:day/:title
+timezone:      Asia/Taipei
+copyright:     Copyright © 2013 Department of Cultural Affairs. All rights reserved Supported by BusinessNext.
+
+paginate:      12
+paginate_path: /pages/:num
+
+links:
+  - title:     About
+    url:       /
+  - title:     Partner
+    url:       /
+  - title:     Design Action
+    url:       /
+  - title:     Contact
+    url:       /
