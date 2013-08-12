@@ -45,3 +45,9 @@ a{text-decoration:none}
 #footer{background:#f2f2f2;text-align:center;padding:10px 0}
 .footer-btn{display:inline-block;margin:0 10px}
 .footer-copyright{line-height:24px;margin:10px auto 0;width:300px;font-size:12px;color:#999}
+.pagination{margin-top:20px;height:30px;line-height:30px;position:relative}
+.pagination-next,.pagination-prev{position:absolute;}
+.pagination-next a,.pagination-prev a{display:block;height:30px;border-bottom:2px #eee solid;}
+.pagination-next a:hover,.pagination-prev a:hover{border-color:#ccc}
+.pagination-next{left:0}
+.pagination-prev{right:0}
