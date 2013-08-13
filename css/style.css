@@ -206,8 +206,8 @@ a {
   height: 94px;
   left: 50%;
   bottom: 0;
-  margin-left: -29.166666666666668px;
-  width: 58.333333333333336px;
+  margin-left: -30px;
+  width: 58px;
   z-index: -1;
   -webkit-transition: bottom 1s ease;
   -moz-transition: bottom 1s ease;
@@ -219,10 +219,10 @@ a {
   background-position: 0px 0px;
 }
 .bar-menu-tag-1 {
-  background-position: -58.333333333333336px 0px;
+  background-position: -58px 0px;
 }
 .bar-menu-tag-2 {
-  background-position: -116.66666666666667px 0px;
+  background-position: -116px 0px;
 }
 .bar-menu {
   width: 600px;
