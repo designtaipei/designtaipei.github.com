@@ -109,10 +109,27 @@ a
   a
     color: #7a7a7a
 
+.bar-menu-tag
+  position: absolute
+  display: block
+  background: url(../images/tag_navbar.png)
+  height: 94px
+  left: 50%
+  bottom: 0
+  margin-left: ($bar-menu-tag-width / 2 * -1)
+  width: $bar-menu-tag-width
+  z-index: -1
+  transition: bottom 1s ease
+
+for i in 0 1 2
+  .bar-menu-tag-{i}
+    background-position: (i * -1 * $bar-menu-tag-width) 0px
+
 .bar-menu
   width: 600px
 
 .bar-menu-item
+  position: relative
   float: left
   font-weight: bold
 
@@ -121,6 +138,11 @@ a
     height: 100%
     line-height: 50px
     padding: 0 10px
+
+  &:hover
+  &.current
+    .bar-menu-tag
+      bottom: -30px
 
 .bar-menu-logo
   background: url($bar-menu-logo) no-repeat left center
@@ -226,3 +248,30 @@ a
 
 .pagination-prev
   right: 0
+
+.content-section
+  margin-bottom: 20px
+
+.content-section-title
+  position: relative
+  line-height: 30px
+  padding: 10px
+  margin-right: 9px
+  margin-bottom: 20px
+  background: #F2F2F2
+
+.content-section-title-tit
+  position: absolute
+  width: 9px
+  height: 100%
+  right: -9px
+  top: 0
+  background: url(../images/tit_right.png)
+
+.content-section-entry
+  width: 688px
+  margin: 0 auto
+
+.article-content
+  line-height: 24px
+  letter-spacing: 1px

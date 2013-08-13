@@ -17,9 +17,15 @@ lr.on('error', function (err) {
 });
 
 // 監控副檔名 styl html
-lr.rules(/\.(styl|html|js)$/);
+lr.rules(/(stylus|_layouts).*\.(styl|html|js)$/);
 
 // 使用 stylus middleware
+
+lr.use(/\.styl$/, function (file, msg, next) {
+  file.file = path.join(__dirname, './stylus/style.styl');
+  next();
+});
+
 lr.use(/\.styl$/, alrStylus(
   './stylus',
   './css',
