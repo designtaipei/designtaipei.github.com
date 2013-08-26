@@ -13,6 +13,7 @@ body
 
 a
   text-decoration: none
+  color: #0e5289
 
 .container
   width: $container-width
@@ -119,7 +120,7 @@ a
   margin-left: ($bar-menu-tag-width / 2 * -1)
   width: $bar-menu-tag-width
   z-index: -1
-  transition: bottom 1s ease
+  transition: bottom .5s ease
 
 for i in 0 1 2
   .bar-menu-tag-{i}
@@ -252,6 +253,11 @@ for i in 0 1 2
 .content-section
   margin-bottom: 20px
 
+  &:after
+    content: ""
+    display: block
+    clear: both
+
 .content-section-title
   position: relative
   line-height: 30px
@@ -259,6 +265,19 @@ for i in 0 1 2
   margin-right: 9px
   margin-bottom: 20px
   background: #F2F2F2
+
+  for color in $tit-color-names
+    $_color = lookup('$tit-color-' + color)
+
+    &.{color}
+      background: $_color[0]
+      color: $_color[1]
+
+      if $_color[2]
+        text-shadow: 0 1px 1px rgba(0, 0, 0, .3)
+
+      .content-section-title-tit
+        background: url('../images/tit_right_' + color + '.png')
 
 .content-section-title-tit
   position: absolute
@@ -268,6 +287,12 @@ for i in 0 1 2
   top: 0
   background: url(../images/tit_right.png)
 
+.content-section-title-container
+  overflow: hidden
+
+  .content-section-title
+    float: left
+
 .content-section-entry
   width: 688px
   margin: 0 auto
@@ -275,3 +300,26 @@ for i in 0 1 2
 .article-content
   line-height: 24px
   letter-spacing: 1px
+
+  for i in 1 2 3 4
+    h{i}
+      line-height: 100%
+
+  h1
+    font-size: 32px
+
+  h2
+    font-size: 28px
+
+  h3
+    font-size: 24px
+
+  h4
+    font-size: 18px
+
+.notes-background
+  background: url(../images/bg_paper.jpg)
+  box-shadow: 0 0 5px rgba(0, 0, 0, .5)
+
+/** pages **/
+@import 'pages'

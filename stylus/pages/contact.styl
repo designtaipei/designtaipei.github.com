@@ -1,0 +1,16 @@
+.contact-item
+  position: relative
+
+for i in 1 2 3
+  .contact-item-{i}
+    padding-left: 30px  
+
+    &:after
+      content: ''
+      position: absolute
+      left: 0
+      top: 0
+      width: 21px
+      height: 21px
+      background-image: url(../images/icon04.png)
+      background-position: 0 (64px / 3 * i)
