@@ -1,0 +1,63 @@
+.design-action-section-action
+  position: relative
+  margin-left: 40px
+  margin-right: 330px
+  margin-bottom: 120px
+
+.design-action-section-action-title
+  @extends .content-section-title
+  background: $tit-color-yellow[0]
+  color: $tit-color-yellow[1]
+  margin-bottom: 20px
+
+.design-action-section-action-title-tit
+  @extends .content-section-title-tit
+  background: url(../images/tit_right_yellow.png)
+
+.design-action-section-action-schedule
+  font-size: 12px
+  line-height: 1.5em
+  position: absolute
+  right: -310px
+  top: 0
+  width: 200px
+  height: 188px
+  padding: 40px 60px 100px 30px
+  background: url(../images/note01.png)
+  word-break: break-all
+  overflow: hidden
+
+.design-action-schedule-part
+  color: #d12020
+
+.designplus-schedule
+  float: left
+  font-size: 12px
+  line-height: 1.5em
+  width: 246px
+  height: 261px
+  background: url(../images/note02.png)
+  padding: 50px 30px 40px 20px
+  margin-bottom: 120px
+
+  &.right
+    float: right
+
+  &.left
+    float: left
+
+.design-action-section-action-entry
+  padding-left: 40px
+
+  h4
+    color: #d12020
+    margin-bottom: 15px
+    font-size: 24px
+
+.design-action-section-action-schedule-wrapper
+  padding: 0 100px
+
+  &:after
+    content: ''
+    display: block
+    clear: both

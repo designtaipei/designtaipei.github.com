@@ -4,7 +4,7 @@
 
 (function (window) {
 
-  if (prompt('輸入密碼') !== 'ghostisland') {
+  if (prompt('輸入密碼') !== 'design-taipei') {
     window.location = 'http://poying.ghostisland.tw/';
   }
 
