@@ -203,12 +203,10 @@ a {
 .bar-menu-tag {
   position: absolute;
   display: block;
-  background: url("../images/tag_navbar.png");
-  height: 94px;
-  left: 50%;
-  bottom: 0;
-  margin-left: -29.166666666666668px;
-  width: 58.333333333333336px;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  bottom: 100%;
   z-index: -1;
   -webkit-transition: bottom 0.5s ease;
   -moz-transition: bottom 0.5s ease;
@@ -216,32 +214,24 @@ a {
   -ms-transition: bottom 0.5s ease;
   transition: bottom 0.5s ease;
 }
-.bar-menu-tag-0 {
-  background-position: 0px 0px;
-}
-.bar-menu-tag-1 {
-  background-position: -58.333333333333336px 0px;
-}
-.bar-menu-tag-2 {
-  background-position: -116.66666666666667px 0px;
-}
 .bar-menu {
   width: 600px;
 }
 .bar-menu-item {
-  position: relative;
   float: left;
   font-weight: bold;
 }
 .bar-menu-item a {
+  position: relative;
   float: left;
   height: 100%;
   line-height: 50px;
   padding: 0 10px;
+  z-index: 0;
 }
 .bar-menu-item:hover .bar-menu-tag,
 .bar-menu-item.current .bar-menu-tag {
-  bottom: -30px;
+  bottom: 0;
 }
 .bar-menu-logo {
   background: url("../images/logo_s.png") no-repeat left center;
@@ -355,7 +345,7 @@ a {
   right: 0;
 }
 .content-section {
-  margin-bottom: 20px;
+  margin-bottom: 100px;
 }
 .content-section:after {
   content: "";
@@ -528,12 +518,7 @@ a {
   margin-bottom: 120px;
 }
 .design-action-section-action-title {
-  background: #f0d300;
-  color: #333;
   margin-bottom: 20px;
-}
-.design-action-section-action-title-tit {
-  background: url("../images/tit_right_yellow.png");
 }
 .design-action-section-action-schedule {
   font-size: 12px;

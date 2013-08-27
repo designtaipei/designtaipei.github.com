@@ -4,8 +4,8 @@
         <li class="bar-menu-item bar-menu-logo"><a href="{{ site.url }}"></a>
         {% for link in site.links %}
         <li class="bar-menu-item{% if page.url == link.url %} current{% endif %}">
-          <a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}"{% if link.external %} target="_blank"{% endif %}>{{ link.title }}</a>
-          <span class="bar-menu-tag bar-menu-tag-{{ link.tagIndex }}"></span>
+          <a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}"{% if link.external %} target="_blank"{% endif %}>{{ link.title }}<span class="bar-menu-tag" style="background: {{ link.color }}"></span></a>
+          
         </li>
         {% endfor %}
       </ul>
