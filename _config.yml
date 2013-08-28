@@ -1,5 +1,5 @@
 
-url:           http://design-taipei.mobileweb.com.tw
+url:           http://http://design-taipei.mobileweb.com.tw
 permalink:     /:year/:month/:day/:title.html
 timezone:      Asia/Taipei
 copyright:     Copyright © 2013 Department of Cultural Affairs. All rights reserved Supported by BusinessNext.
@@ -10,6 +10,9 @@ paginate:      12
 paginate_path: /pages/:num.html
 
 links:
+  - title:     Home
+    url:       /
+    color:     '#80cce3'
   - title:     About
     url:       /about.html
     color:     '#fad7b5'
