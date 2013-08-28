@@ -454,6 +454,11 @@ a {
   background: url("../images/bg_paper.jpg");
   background-position: -1px -1px;
 }
+.contain-wrapper:after {
+  content: '';
+  display: block;
+  clear: both;
+}
 /** pages **/
 .page-partner-content-image {
   max-width: 128px;
