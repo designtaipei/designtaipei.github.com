@@ -295,6 +295,10 @@ a {
 .main-post-single {
   width: 100%;
 }
+.main-post-single img {
+  max-width: auto;
+  height: auto;
+}
 .main-post-title {
   color: #282828;
   line-height: 30px;
