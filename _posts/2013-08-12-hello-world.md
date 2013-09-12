@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  5% Design Action友善好餐廳創新設計工作坊Part1活動紀錄-不便者在城市的好食體驗
-tumb:   pic_01.png
+tumb:   aa.jpg
 tags:   [友善好餐廳創新設計工作坊]
 ---
 
