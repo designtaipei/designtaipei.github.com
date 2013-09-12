@@ -10,7 +10,7 @@ tags:   [友善好餐廳創新設計工作坊]
 	text-align: center;
 }
 .singlepost-image-img{
-	width: 500px;
+	width: 500px !important;
 	height: 330px;
 }
 .singlepost-image-message {
