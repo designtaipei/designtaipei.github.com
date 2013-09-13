@@ -301,7 +301,8 @@ a {
 }
 .main-post-title {
   color: #282828;
-  line-height: 30px;
+  line-height: 20px;
+  margin-top: 5px;
 }
 .main-post-img {
   -webkit-box-sizing: border-box;
