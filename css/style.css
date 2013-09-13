@@ -100,6 +100,9 @@ a {
   text-decoration: none;
   color: #0e5289;
 }
+test {
+  color: #aaa;
+}
 .container {
   width: 850px;
   margin: 0 auto;
