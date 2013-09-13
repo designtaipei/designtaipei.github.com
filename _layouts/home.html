@@ -11,12 +11,12 @@
         {% for post in paginator.posts %}
         <article class="main-post">
           <header class="main-post-header">
-            <img class="main-post-img" src="{{ site.url }}/images/tumb/{{ post.tumb }}" />
+            <a href="{{ site.url }}{{ post.url }}"><img class="main-post-img" src="{{ site.url }}/images/tumb/{{ post.tumb }}" /></a>
             <h3 class="main-post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
           </header>
-          <div class="main-post-entry">
+          <!--div class="main-post-entry">
             <p>{{ post.content | strip_html | strip_newlines | truncate: 120 }}</p>
-          </div>
+          </div-->
         </article>
         {% endfor %}
 
