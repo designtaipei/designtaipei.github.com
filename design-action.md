@@ -35,7 +35,7 @@ title: Design Action
       </div>
 
       <div class="design-action-section-action-schedule">
-        <p><span class="design-action-schedule-part">Part 1</span> <br />日期︱2013 &#47; 8 &#47; 31 (六) &#47; 設計工作坊：探索階段<br> ( 超連結: <a href="http://design-taipei.mobileweb.com.tw/2013/08/12/artical-A.html">http://design-taipei.mobileweb.com.tw/2013/08/12/artical-A.html</a></p>
+        <p><span class="design-action-schedule-part">Part 1</span> <br />日期︱2013 &#47; 8 &#47; 31 (六) &#47; 設計工作坊：<a href="http://design-taipei.mobileweb.com.tw/2013/08/12/artical-A.html">探索階段</a></p>
         <p><span class="design-action-schedule-part">Part 2</span> <br />日期︱2013 &#47; 9 &#47; 21 (六) &#47; 設計工作坊：定義與發展階段</p>
         <p><span class="design-action-schedule-part">Part 3</span> <br />日期︱2013 &#47; 10 &#47; 5 (六) &#47; 成果發表會暨記者會</p>
       </div>
