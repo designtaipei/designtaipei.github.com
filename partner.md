@@ -5,18 +5,6 @@ title: Partner
 
 <section class="content-section">
   <header class="content-section-title-container">
-    <h3 class="content-section-title green">CareBest家倍安<span class="content-section-title-tit"></span></h3>
-  </header>
-
-  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/carebest.jpg" />
-
-  <p>家倍安是一個致力於老人福祉的社會企業，長期關注長者與疾病照護、輔具選擇、通用設計、生活協助、照護補助等議題。楊荏傑同時也是博雅青年講堂發起人之一，透過近20週的完整思考歷程，培養學生獨立思考的能力；所有資金來自社會大眾的捐獻，所有的基金也只會用於學生身上，是一個完全不營利的社會公益培訓計畫。</p>
-  
-  <p><a href="https://www.facebook.com/carebest.tw">https://www.facebook.com/carebest.tw</a></p>
-</section>
-
-<section class="content-section">
-  <header class="content-section-title-container">
     <h3 class="content-section-title green">DreamVok意集創造－5% Design Action<span class="content-section-title-tit"></span></h3>
   </header>
 
@@ -25,6 +13,34 @@ title: Partner
   <p>DreamVok是一群對設計推動創新滿懷熱情的人所組成，成員包括服務設計專書《打開服務設計的秘密》作者楊振甫、黃則佳。為讓更多夥伴可以加入，DreamVok發起「5% Design Action」計畫，透過每一季與許多社會議題的相關單位合作，邀集跨域設計師參加，期待這個社會除了有設計思維 Design Thinking ，更有設計行動 Design Action 的勇氣，以設計出發打造有機成長、自主發展的實踐平台，未來持續以設計推動社會改變。</p>
 
   <p><a href="https://www.facebook.com/5DesignAction">https://www.facebook.com/5DesignAction</a></p>
+</section>
+
+
+<section class="content-section">
+  <header class="content-section-title-container">
+    <h3 class="content-section-title green">Scenario Lab應用劇本實驗室<span class="content-section-title-tit"></span></h3>
+  </header>
+
+  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/scenario-lab.JPG" />
+
+  <p>應用劇本實驗室為1992∼1997年於工研院成立的概念設計團隊，參與高畫質電視、PDA、數位相機等未來產品概念發展，並透過從生活型態調查、使用者研究，延伸為劇本導引創新、互動設計、使用評價、情境規劃等，讓產品更貼近真實生活。2004年7月，林文綺和余德彰在新竹科學園區創立應用劇本實驗室，開始應用劇本法，為科技大廠與研究機構提供創新導引服務。</p>
+
+  <p>創辦人暨營運總監／余德彰<br />“透過劇本導引設計新法，將理性的數據化為能感動人的情境或故事，而設計師就能應用其結果，將感受及熱情表現在設計上。”</p>
+
+  <p><a href="http://www.scenariolab.com.tw/">http://www.scenariolab.com.tw/</a></p>
+</section>
+
+
+<section class="content-section">
+  <header class="content-section-title-container">
+    <h3 class="content-section-title green">CareBest家倍安<span class="content-section-title-tit"></span></h3>
+  </header>
+
+  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/carebest.jpg" />
+
+  <p>家倍安是一個致力於老人福祉的社會企業，長期關注長者與疾病照護、輔具選擇、通用設計、生活協助、照護補助等議題。楊荏傑同時也是博雅青年講堂發起人之一，透過近20週的完整思考歷程，培養學生獨立思考的能力；所有資金來自社會大眾的捐獻，所有的基金也只會用於學生身上，是一個完全不營利的社會公益培訓計畫。</p>
+  
+  <p><a href="https://www.facebook.com/carebest.tw">https://www.facebook.com/carebest.tw</a></p>
 </section>
 
 <section class="content-section">
@@ -73,20 +89,6 @@ title: Partner
   <p>出生、上學、創業、失業、租屋、買房、結婚、生孩子、生病、住院、退休、年老…人生的每個階段，都會有用到社會補助、福利資源的時候；但面對台灣龐雜的社福系統、民間政府上萬種社會福利，「茫茫補助海中，到底哪些是我有資格可申請的？」福利搜尋器，就是希望透過簡易的條件篩選解決上述問題，幫助民眾找到專屬的社會福利菜單！</p>
 
   <p><a href="http://listening.g0v.tw/">http://listening.g0v.tw/</a></p>
-</section>
-
-<section class="content-section">
-  <header class="content-section-title-container">
-    <h3 class="content-section-title green">Scenario Lab應用劇本實驗室<span class="content-section-title-tit"></span></h3>
-  </header>
-
-  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/scenario-lab.JPG" />
-
-  <p>應用劇本實驗室為1992∼1997年於工研院成立的概念設計團隊，參與高畫質電視、PDA、數位相機等未來產品概念發展，並透過從生活型態調查、使用者研究，延伸為劇本導引創新、互動設計、使用評價、情境規劃等，讓產品更貼近真實生活。2004年7月，林文綺和余德彰在新竹科學園區創立應用劇本實驗室，開始應用劇本法，為科技大廠與研究機構提供創新導引服務。</p>
-
-  <p>創辦人暨營運總監／余德彰<br />“透過劇本導引設計新法，將理性的數據化為能感動人的情境或故事，而設計師就能應用其結果，將感受及熱情表現在設計上。”</p>
-
-  <p><a href="http://www.scenariolab.com.tw/">http://www.scenariolab.com.tw/</a></p>
 </section>
 
 <section class="content-section">
