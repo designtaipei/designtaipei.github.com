@@ -150,3 +150,9 @@ title: Partner
 
   <p><a href="http://www.t-edu.tw/">http://www.t-edu.tw/</a></p>
 </section>
+<section class="more-partner">
+  <h4 class="more-partner-title">友善好夥伴</h4>
+  <ul class="more-partner-box">
+    <li><a class="more-partner-box-link" href="http://www.8-fu.org/ap/index.aspx"><img class="" src="{{ site.url }}/images/pn1.jpg"></li>
+  </ul>
+</section>
