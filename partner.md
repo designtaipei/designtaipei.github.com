@@ -164,3 +164,13 @@ title: Partner
     <li><a class="more-partner-box-link" href="http://www.tfb.org.tw/"><img class="" src="{{ site.url }}/images/pn8.jpg"></li>
   </ul>
 </section>
+
+<section class="more-partner">
+  <h4 class="more-partner-title">友善好餐廳
+   </h4>
+  <ul class="more-partner-box">
+    <li><a class="more-partner-box-link" href="http://www.kiki1991.com/"><img class="" src="{{ site.url }}/images/pnr1.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.mvp-icecream.com.tw/"><img class="" src="{{ site.url }}/images/pnr2.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.mos.com.tw/"><img class="" src="{{ site.url }}/images/pnr3.jpg"></li>
+  </ul>
+</section>
