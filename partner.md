@@ -36,7 +36,7 @@ title: Partner
     <h3 class="content-section-title green">CareBest家倍安<span class="content-section-title-tit"></span></h3>
   </header>
 
-  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/carebest.jpg" />
+  <img class="page-partner-content-image right" src="{{ site.url }}/images/logo/carebest.jpg" />
 
   <p>家倍安是一個致力於老人福祉的社會企業，長期關注長者與疾病照護、輔具選擇、通用設計、生活協助、照護補助等議題。楊荏傑同時也是博雅青年講堂發起人之一，透過近20週的完整思考歷程，培養學生獨立思考的能力；所有資金來自社會大眾的捐獻，所有的基金也只會用於學生身上，是一個完全不營利的社會公益培訓計畫。</p>
   
@@ -96,7 +96,7 @@ title: Partner
     <h3 class="content-section-title green">自由空間教育基金會<span class="content-section-title-tit"></span></h3>
   </header>
 
-  <img class="page-partner-content-image right" src="{{ site.url }}/images/logo/fuoe.jpg" />
+  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/fuoe.jpg" />
 
   <p>鑒於生活設施、用品的設計、製造過程的忽略，而剝奪許多人的使用權，致力推動無障礙空間的唐峰正於2005年成立自由空間教育基金會，希望所有的人了解「通用設計」後，共同協力透過教育、設計執行、製造生產；並透過基金會形式，以「自由空間」結合「通用設計」理念為經，平等公義普及環境改善為緯，創造健康、舒適、安全真正的無障礙自由空間。</p>
 
@@ -108,7 +108,7 @@ title: Partner
     <h3 class="content-section-title green">交大數位創意與行銷策略實驗室－友善台北好餐廳<span class="content-section-title-tit"></span></h3>
   </header>
 
-  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/ghostisland-taipei-restaurant.jpg" />
+  <img class="page-partner-content-image right" src="{{ site.url }}/images/logo/ghostisland-taipei-restaurant.jpg" />
 
   <p>交大數位創意與行銷策略實驗室為林崇偉與交大學生共同組成的一支創意團隊，用數位科技為工具，以人文關懷為核心，從2008年的「單車客不只是過客」開始，團隊每一年都創造出不僅具有話題性，更有行動力的網路創新平台與行動服務議題；2012年推出台北無障礙餐廳地圖「愛的米其林」APP，透過身障特派員實際的勘察報告，落實並推廣台灣的無障礙環境與服務情境。</p>
 
@@ -120,7 +120,7 @@ title: Partner
     <h3 class="content-section-title green">社企流<span class="content-section-title-tit"></span></h3>
   </header>
 
-  <img class="page-partner-content-image right" src="{{ site.url }}/images/logo/social.png" />
+  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/social.png" />
 
   <p>社企流推廣目前公司組織與非營利組織「運用商業模式解決社會問題」的概念，最終倡導社會企業朝尤努斯所定義的方向發展－亦即以公司型態存在、同時具獲利能力與永續經營能力。社企流整理了各領域成功的社會企業案例，帶大家看看社會企業這個好點子，如何被具體落實在世界各個角落！</p>
 
@@ -132,7 +132,7 @@ title: Partner
     <h3 class="content-section-title green">童心創意行動協會－Design for Change<span class="content-section-title-tit"></span></h3>
   </header>
 
-  <img class="page-partner-content-image left" src="{{ site.url }}/images/logo/dfc.jpg" />
+  <img class="page-partner-content-image right" src="{{ site.url }}/images/logo/dfc.jpg" />
 
   <p>Design for Change（簡稱DFC）是一個全球孩童創意挑戰。在2009年於印度展開，由印度河濱學校Riverside School創辦人瑟吉校長Kiran Bir Sethi發起，現在全球的孩子都以充滿活力與創造力的方式響應這項活動！活動希望透過感受、想像、實踐、分享􀀕個步驟，讓孩子以行動實現夢想，並且勇於改變世界。用這樣的方式，讓孩子從小就勇於改變世界，付諸行動。</p>
 
@@ -151,27 +151,29 @@ title: Partner
   <p><a href="http://www.t-edu.tw/">http://www.t-edu.tw/</a></p>
 </section>
 
-<section class="more-partner">
-  <h4 class="more-partner-title">友善好夥伴</h4>
-  <ul class="more-partner-box">
-    <li><a class="more-partner-box-link" href="http://www.8-fu.org/ap/index.aspx"><img class="" src="{{ site.url }}/images/pn1.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.forblind.org.tw"><img class="" src="{{ site.url }}/images/pn2.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.nad.org.tw/ap/index.aspx"><img class="" src="{{ site.url }}/images/pn3.jpg"></li>       
-    <li><a class="more-partner-box-link" href="http://www.ceoclub.org.tw/"><img class="" src="{{ site.url }}/images/pn4.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.hondao.org.tw"><img class="" src="{{ site.url }}/images/pn5.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.sunable.net/sunhome/aboutus"><img class="" src="{{ site.url }}/images/pn6.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://afterthatday.blogspot.com/"><img class="" src="{{ site.url }}/images/pn7.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.tfb.org.tw/"><img class="" src="{{ site.url }}/images/pn8.jpg"></li>
+<section class="more-partner content-section">
+  <header>
+    <h3 class="more-partner-title">友善好夥伴</h3>
+  </header>
+  <ul class="more-partner-box clear">
+    <li class="more-partner-item"><a href="http://www.8-fu.org/ap/index.aspx"><img src="{{ site.url }}/images/pn1.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.forblind.org.tw"><img src="{{ site.url }}/images/pn2.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.nad.org.tw/ap/index.aspx"><img src="{{ site.url }}/images/pn3.jpg"></a></li><!-- 
+    --><li class="more-partner-item"><a href="http://www.ceoclub.org.tw/"><img src="{{ site.url }}/images/pn4.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.hondao.org.tw"><img src="{{ site.url }}/images/pn5.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.sunable.net/sunhome/aboutus"><img src="{{ site.url }}/images/pn6.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://afterthatday.blogspot.com/"><img src="{{ site.url }}/images/pn7.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.tfb.org.tw/"><img src="{{ site.url }}/images/pn8.jpg"></a></li>
   </ul>
 </section>
  
-<section class="more-partner">
-  <h4 class="more-partner-title">友善好餐廳
-   </h4>
-  <ul class="more-partner-box">
-    <li><a class="more-partner-box-link" href="http://www.kiki1991.com/"><img class="" src="{{ site.url }}/images/pnr1.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.mvp-icecream.com.tw/"><img class="" src="{{ site.url }}/images/pnr2.jpg"></li>
-    <li><a class="more-partner-box-link" href="http://www.mos.com.tw/"><img class="" src="{{ site.url }}/images/pnr3.jpg"></li>
+<section class="more-partner content-section">
+  <header>
+    <h3 class="more-partner-title">友善好餐</h3>
+  </header>
+  <ul class="more-partner-box clear">
+    <li class="more-partner-item"><a href="http://www.kiki1991.com/"><img src="{{ site.url }}/images/pnr1.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.mvp-icecream.com.tw/"><img src="{{ site.url }}/images/pnr2.jpg"></a></li><!--
+    --><li class="more-partner-item"><a href="http://www.mos.com.tw/"><img src="{{ site.url }}/images/pnr3.jpg"></a></li>
   </ul>
 </section>
-

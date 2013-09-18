@@ -473,7 +473,6 @@ a {
   max-height: 128px;
   padding: 5px;
   margin: 0 20px;
-  border: 1px #f5f5f5 solid;
   background: #fff;
 }
 .page-partner-content-image.left {
@@ -481,6 +480,21 @@ a {
 }
 .page-partner-content-image.right {
   float: right;
+}
+.more-partner-box {
+  width: 100%;
+}
+.more-partner-item {
+  float: left;
+  display: inline-block;
+  margin-left: 31.25px;
+  margin-right: 31.25px;
+  margin-top: 20px;
+}
+.more-partner-item a {
+  display: block;
+  height: 100%;
+  width: 100%;
 }
 .contact-item {
   position: relative;
