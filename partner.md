@@ -151,4 +151,27 @@ title: Partner
   <p><a href="http://www.t-edu.tw/">http://www.t-edu.tw/</a></p>
 </section>
 
+<section class="more-partner">
+  <h4 class="more-partner-title">友善好夥伴</h4>
+  <ul class="more-partner-box">
+    <li><a class="more-partner-box-link" href="http://www.8-fu.org/ap/index.aspx"><img class="" src="{{ site.url }}/images/pn1.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.forblind.org.tw"><img class="" src="{{ site.url }}/images/pn2.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.nad.org.tw/ap/index.aspx"><img class="" src="{{ site.url }}/images/pn3.jpg"></li>       
+    <li><a class="more-partner-box-link" href="http://www.ceoclub.org.tw/"><img class="" src="{{ site.url }}/images/pn4.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.hondao.org.tw"><img class="" src="{{ site.url }}/images/pn5.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.sunable.net/sunhome/aboutus"><img class="" src="{{ site.url }}/images/pn6.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://afterthatday.blogspot.com/"><img class="" src="{{ site.url }}/images/pn7.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.tfb.org.tw/"><img class="" src="{{ site.url }}/images/pn8.jpg"></li>
+  </ul>
+</section>
+ 
+<section class="more-partner">
+  <h4 class="more-partner-title">友善好餐廳
+   </h4>
+  <ul class="more-partner-box">
+    <li><a class="more-partner-box-link" href="http://www.kiki1991.com/"><img class="" src="{{ site.url }}/images/pnr1.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.mvp-icecream.com.tw/"><img class="" src="{{ site.url }}/images/pnr2.jpg"></li>
+    <li><a class="more-partner-box-link" href="http://www.mos.com.tw/"><img class="" src="{{ site.url }}/images/pnr3.jpg"></li>
+  </ul>
+</section>
 
