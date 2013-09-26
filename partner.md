@@ -169,7 +169,7 @@ title: Partner
  
 <section class="more-partner content-section">
   <header>
-    <h3 class="more-partner-title">友善好餐</h3>
+    <h3 class="more-partner-title">友善好餐廳</h3>
   </header>
   <ul class="more-partner-box clear">
     <li class="more-partner-item"><a href="http://www.kiki1991.com/"><img src="{{ site.url }}/images/pnr1.jpg"></a></li><!--
