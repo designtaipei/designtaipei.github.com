@@ -482,6 +482,13 @@ a {
 .page-partner-content-image.right {
   float: right;
 }
+.more-partner-box {
+  display: inline-block;
+}
+.more-partner-box-link {
+  border: 1px solid rgba(128,128,128,0.43);
+  margin: 30px 40px;
+}
 .contact-item {
   position: relative;
 }
