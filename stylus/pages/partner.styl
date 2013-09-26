@@ -3,7 +3,6 @@
   max-height: 128px
   padding: 5px
   margin: 0 20px
-  border: 1px #F5F5F5 solid
   background: #FFF
 
   &.left
@@ -13,9 +12,16 @@
     float: right
 
 .more-partner-box
+  width: 100%
+
+.more-partner-item
+  float: left
   display: inline-block
-  
-.more-partner-box-link
-  border: 1px solid rgba(128, 128, 128, 0.43)
-  margin: 30px 40px
-  
+  margin-left: (($container-width - 150 * 4) / 8)
+  margin-right: (($container-width - 150 * 4) / 8)
+  margin-top: 20px
+
+  a
+    display: block
+    height: 100%
+    width: 100%

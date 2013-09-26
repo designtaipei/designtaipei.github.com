@@ -473,7 +473,6 @@ a {
   max-height: 128px;
   padding: 5px;
   margin: 0 20px;
-  border: 1px #f5f5f5 solid;
   background: #fff;
 }
 .page-partner-content-image.left {
@@ -488,6 +487,19 @@ a {
 .more-partner-box-link {
   border: 1px solid rgba(128,128,128,0.43);
   margin: 30px 40px;
+  width: 100%;
+}
+.more-partner-item {
+  float: left;
+  display: inline-block;
+  margin-left: 31.25px;
+  margin-right: 31.25px;
+  margin-top: 20px;
+}
+.more-partner-item a {
+  display: block;
+  height: 100%;
+  width: 100%;
 }
 .contact-item {
   position: relative;
