@@ -62,9 +62,9 @@ title: Design Action
       </div>
 
       <div class="designplus-schedule right">
-        <p><span class="design-action-schedule-part">Part 3</span><br /><a href="http://www.shoppingdesign.com.tw/designplus/07/）">9 &#47; 26 從文化尋找設計靈感：Design+服務設計</a><br />5% Design Action發起人 &#47; 楊振甫<br />Yahoo! 亞太區設計部資深總監 &#47; Melora Zaner-Godsey</p>
+        <p><span class="design-action-schedule-part">Part 3</span><br /><a href="http://www.shoppingdesign.com.tw/designplus/07/）">9 &#47; 26 從文化尋找設計靈感：Design+服務設計</a><br />5% Design Action發起人 &#47; 楊振甫<br /></p>
 
-        <p><span class="design-action-schedule-part">Part 4</span><br />10 &#47; 17 品牌行銷的設計思考：Design+社會設計<br />（邀約中）</p>
+        <p><span class="design-action-schedule-part">Part 4</span><br /><a href="http://www.shoppingdesign.com.tw/designplus/08/ )" >10 &#47; 17 品牌行銷的設計思考：Design+社會設計</a><br />社企流 &#47; 林以涵</p>
 
         <p><span class="design-action-schedule-part">Part 5</span><br />11 &#47; 21 創意人的第一堂生存課，財務管理：Design+友善環境<br />（邀約中）</p>
       </div>
