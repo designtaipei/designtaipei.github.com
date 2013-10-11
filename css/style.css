@@ -456,8 +456,8 @@ a {
   font-size: 18px;
 }
 .article-content p {
-  margin-bottom: 50px;
-  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-top: 50px;
 }
 .notes-background {
   background: url("../images/bg_paper.jpg");
